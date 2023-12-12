@@ -1,0 +1,151 @@
+Procedimento de Teste
+
+1) Itens de cobertura de teste
+
+	Identificador único
+
+		#1
+
+	Descrição
+
+		- Testes de realização de cadastro na Lacrei Saude web
+
+
+
+2) Procedimento de Teste
+
+	Objetivo e Prioridade
+
+		- Cobrir todos os demais caminhos de testes possíveis na tela de cadastro
+		- Alta
+
+	Duração
+
+		- 3 dias
+
+	Procedimentos iniciais
+
+		- Conectar a internet
+		- Abrir o browser Edge
+
+	Relacionamento com outros procedimentos
+
+		- N/A
+
+	
+
+
+
+Procedimento (Linhas):
+
+	a) Passo
+
+		#1
+
+	b) Caso de Teste
+
+		- #1-#1
+
+	c) Atividade
+
+		- Preencher o formulário de cadastro
+
+	d) Análise do resultado
+
+		- Valide que todos os campos foram preenchidos corretamente;
+		- Valide que os requisitos da senha ficaram verdes.
+
+	e) Saída
+
+		- Os requisitos da senha ficaram verdes.
+
+	f) Resultado
+
+		- Todos os campos foram preenchidos corretamente;
+		- Os requisitos da senha ficaram verdes.
+
+
+
+	a) Passo
+
+		#2
+
+	b) Caso de Teste
+
+		- #1-#1
+
+	c) Atividade
+
+		- Submeter o formulário de cadastro
+
+	d) Análise do resultado
+
+		- Validar que a tela de envio do email de confirmaçao foi apresentada
+
+	e) Saída
+
+		- Tela de envio da confirmaçao do email
+
+	f) Resultado
+
+		- Visualização da Tela de envio da confirmaçao do email
+
+
+
+	a) Passo
+
+		#3
+
+	b) Caso de Teste
+
+		- #1-#2
+
+	c) Atividade
+
+		- Confirmar o email
+
+	d) Análise do resultado
+
+		- Validar que o email de confirmaçao de cadastro foi recebido corretamente;
+
+	e) Saída
+
+		- Email confirmado.
+
+	f) Resultado
+
+		- Email confirmado, mas, nao foi exibido nenhuma mensagem informando isso.
+
+
+
+	a) Passo
+
+		#4
+
+	b) Caso de Teste
+
+		- #1-#3
+
+	c) Atividade
+
+		- Continuar o cadastro apos login
+
+	d) Análise do resultado
+
+		- Validar que o fluxo do cadastro nao é interrompido;
+
+	e) Saída
+
+		- seguir o fluxo de cadastro normalmente até a tela "Seu cadastro foi concluído!".
+
+	f) Resultado
+
+		- Fluxo interrompido na pagina "Com qual pronome você se identifica?".
+		- Ao contornar o problema que interrompia o fluxo de cadastro, preenchi todas as perguntas e foi exibida a tela com a mensagem "seu cadastro foi concluido", com um botao ao lado escrito "Buscar profissional", ao clicar em buscar profissional sou enviado novamente para a tela de continuar o cadastro para preencher novamente o tudo que acabei de preencher, caso eu atualize a pagina sou enviado para a pagina correta ao inves de ter que preencher novamente o formulario.
+
+Parada e fechamento
+
+	- Saio do sistema se estiver logado
+	- Fechar o browser
+
+

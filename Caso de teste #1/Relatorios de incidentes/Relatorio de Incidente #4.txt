@@ -1,0 +1,43 @@
+Relatório de Incidente
+
+Identificador único
+
+#4
+
+	Título
+
+		- Botao "buscar profissional" 
+
+	Informação de tempo
+
+		- 12/12/2023 10:52
+
+	Originador
+
+		- Gustavo
+
+	Contexto
+
+		- Estava usando o Edge
+
+
+	Descrição do incidente
+
+		- Ao contornar o problema que interrompia o fluxo de cadastro, preenchi todas as perguntas e foi exibida a tela com a mensagem "seu cadastro foi concluido", com um botao ao lado escrito "Buscar profissional", ao clicar em buscar profissional sou enviado novamente para a tela de continuar o cadastro para preencher novamente o tudo que acabei de preencher, caso eu atualize a pagina sou enviado para a pagina correta ao inves de ter que preencher novamente o formulario.
+	
+
+	Avaliação da severidade
+
+		- Media
+
+	Avaliação de prioridade
+
+		- Alta
+
+	Risco
+
+		- O usuario pode desistir do cadastro por achar que nao tem como seguir o fluxo.
+
+	Status do incidente
+
+		- aberto

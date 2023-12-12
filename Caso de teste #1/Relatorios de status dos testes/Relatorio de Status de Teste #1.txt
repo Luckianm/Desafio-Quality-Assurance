@@ -1,0 +1,39 @@
+Relatório de Status de Teste
+
+	Identificador único
+
+		#1
+
+	Período de relatório
+
+		- 12/12/2023 até 12/12/2023
+
+	Progresso em relação ao plano de teste
+
+		- 12/12/2023: Revisão de documentos
+		- 12/12/2023: Criar casos de teste
+
+	Fatores que bloqueiam o progresso
+
+		- N/A
+
+	Medidas de teste
+
+		- Casos de teste executados versus planejados
+ 		 + Executados: 2
+  		 + Planejados: 2
+  		 + Status atual: 100% já executados
+ 
+		- Incidentes reportados e não corrigidos
+  		 + Incidentes reportados: 2
+		 + Incidentes corrigidos: 0
+ 		 + Status atual: 100% dos incidentes ainda não foram corrigidos
+
+	Riscos novos e alterados
+
+		- Cadastro esta aceitando senhas muito longas;
+		- Ao clicar no link recebido para confirmar o email nao visualizo nenhuma mensagem informando que o email foi confirmado.
+
+	Teste planejado
+
+		- N/A

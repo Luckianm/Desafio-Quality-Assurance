@@ -1,0 +1,38 @@
+Relatório de Status de Teste
+
+	Identificador único
+
+		#2
+
+	Período de relatório
+
+		- 12/12/2023 até 12/12/2023
+
+	Progresso em relação ao plano de teste
+
+		- 12/12/2023: Revisão de documentos
+		- 12/12/2023: Criar casos de teste
+
+	Fatores que bloqueiam o progresso
+
+		- N/A
+
+	Medidas de teste
+
+		- Casos de teste executados versus planejados
+ 		 + Executados: 1
+  		 + Planejados: 1
+  		 + Status atual: 100% já executados
+ 
+		- Incidentes reportados e não corrigidos
+  		 + Incidentes reportados: 0
+		 + Incidentes corrigidos: 0
+ 		 + Status atual: 100% dos incidentes foram corrigidos
+
+	Riscos novos e alterados
+
+		- N/A
+
+	Teste planejado
+
+		- N/A

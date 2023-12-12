@@ -1,0 +1,132 @@
+Caso de Teste
+
+1) Itens de cobertura de teste
+
+	Identificador único
+
+		#1
+
+	Descrição
+
+		- Cadastro de usuario
+
+	Prioridade
+
+		- Alta
+
+	Rastreabilidade
+
+		- Desafio Quality Assurance
+
+
+
+
+2) Casos de Teste
+
+	Identificador único
+
+		- #1
+
+	Objetivo
+
+		- Validar cadastro de usuario
+
+	Prioridade
+
+		- Alta
+
+	Rastreabilidade
+
+		- Desafio Quality Assurance
+
+	Condições prévias
+
+		- 
+
+	Entradas
+
+		- Nome
+		- Sobrenome
+		- Email
+		- Senha
+
+	Resultados esperados
+
+		- Ver uma tela informando: "Estamos quase lá... Para sua segurança, enviamos um link de verificação para o e-mail que você cadastrou."
+
+	Resultados atuais e resultado do teste
+
+		- Foi apresentada uma tela informando : "Estamos quase lá... Para sua segurança, enviamos um link de verificação para o e-mail que você cadastrou."
+
+
+
+
+	Identificador único
+
+		- #2
+
+	Objetivo
+
+		- Confirmaçao do cadastro no email
+
+	Prioridade
+
+		- Alta
+
+	Rastreabilidade
+
+		- Desafio Quality Assurance
+
+	Condições prévias
+
+		- Cadastro realizado
+
+	Entradas
+
+		- 
+
+	Resultados esperados
+
+		- Receber um email com um link para confirmaçao do cadastro
+
+	Resultados atuais e resultado do teste
+
+		- Recebi o email, mas, ao clicar no email fui redirecionado a tela de login sem nenhuma mensagem me informando que eu tinha que fazer o login para continuar o cadastro ou que o email tinha sido confirmado.
+
+
+
+	Identificador único
+
+		- #3
+
+	Objetivo
+
+		- Continuar o cadastro após login
+
+	Prioridade
+
+		- Alta
+
+	Rastreabilidade
+
+		- Desafio Quality Assurance
+
+	Condições prévias
+
+		- Cadastro realizado
+		- Login realizado
+
+	Entradas
+
+		- Email
+		- Senha
+
+	Resultados esperados
+
+		- Serei direcionado a pagina de boas vindas com um botão para continuar o cadastro.
+		- Ao clicar no botão serei direcionado para uma tela com formularios para concluir o cadastro.
+
+	Resultados atuais e resultado do teste
+
+		- Fui direcionado para a pagina de boas vindas, mas ao clicar em continuar o cadastro o fluxo foi interrompido pelo incidente #3.
+		- O botão "Buscar profissional" esta redirecionada para o inicio do formulario.

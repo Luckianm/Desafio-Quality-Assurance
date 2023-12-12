@@ -1,0 +1,57 @@
+Caso de Teste
+
+1) Itens de cobertura de teste
+
+	Identificador único
+
+		#2
+
+	Descrição
+
+		- Login do usuário na Lacrei saude web
+
+	Prioridade
+
+		- Alta
+
+	Rastreabilidade
+
+		- Desafio Quality Assurance
+
+
+
+
+2) Casos de Teste
+
+	Identificador único
+
+		- #1
+
+	Objetivo
+
+		- Validar fluxo de login
+
+	Prioridade
+
+		- Alta
+
+	Rastreabilidade
+
+		- Desafio Quality Assurance
+
+	Condições prévias
+
+		- Usuario valido
+
+	Entradas
+
+		- Usuário
+		- Senha
+
+	Resultados esperados
+
+		- Ser direcionado para a pagina com a mensagem "Boas-vindas à Lacrei Saúde!"
+
+	Resultados atuais e resultado do teste
+
+		- fui direcionado para a pagina com a mensagem "Boas-vindas à Lacrei Saúde!"

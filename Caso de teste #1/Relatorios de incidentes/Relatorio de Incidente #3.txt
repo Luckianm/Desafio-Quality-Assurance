@@ -1,0 +1,45 @@
+Relatório de Incidente
+
+Identificador único
+
+#3
+
+	Título
+
+		- Seletor de pronome nao esta sendo mostrado 
+
+	Informação de tempo
+
+		- 12/12/2023 10:32
+
+	Originador
+
+		- Gustavo
+
+	Contexto
+
+		- Estava usando o Edge
+
+
+	Descrição do incidente
+
+		- Ao clicar em continuar o cadastro sou direcionado para a pagina para selecionar o meu pronome, mas nenhum seletor esta sendo exibido, o seletor só é exebido se eu clicar em voltar e depois clicar em "continuar cadastro" novamente.
+
+		- Evidências: incidente#3.png
+	
+
+	Avaliação da severidade
+
+		- Media
+
+	Avaliação de prioridade
+
+		- Alta
+
+	Risco
+
+		- O usuario pode desistir do cadastro por achar que nao tem como seguir o fluxo.
+
+	Status do incidente
+
+		- aberto

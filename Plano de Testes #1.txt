@@ -1,0 +1,173 @@
+Plano de Testes
+
+1) Informações gerais
+
+	Visão geral
+
+		Um plano de testes para clarificar a todos envolvidos o que será testado.
+
+	Identificador único
+
+		#1
+
+	Organização responsável
+
+		Lacrei Saude.
+
+	Aprovadores
+
+		- Daniel Dutra (desenvolvimento humano)
+
+	Histórico de mudanças
+
+		- 12/12/2023 Criei o Plano
+
+	Escopo geral
+
+		- Tela "Criar conta"
+		- Tela "Boas-vindas a Lacrei saude"
+
+
+	Referências
+
+		- https://lacrei.notion.site/Desafio-Quality-Assurance-de16f470007841aba5c564e5dd543943
+
+	Glossário de Termos
+
+		- Responsividade: Adequação automática a diferentes dimensões de tela
+
+
+
+
+
+
+2) Contexto do teste
+
+	Projetos ou Sub-processos de Teste
+
+		- Lacrei Saude Web
+
+	Item(ns) de teste
+
+		- Lacrei Saude Web
+
+	Escopo do teste
+
+		Serão Testados:
+			- Login
+			- Registro de usuario
+
+	Não serão testados:
+
+
+	Premissas e restrições
+
+		- Cobrir todos os demais caminhos de testes possíveis das telas;
+
+	Stakeholders
+
+		- Daniel Dutra (desenvolvimento humano)
+
+
+
+
+
+
+3) Registro de risco de comunicação de teste
+
+	Riscos do produto
+
+
+	Riscos do projeto
+
+
+
+
+4) Estratégia de teste
+
+	Teste de sub-processos
+
+		- Lacrei Saude Web
+
+	Entregáveis de teste
+
+		- Caso de Teste
+		- Procedimento de Teste
+		- Log de Teste
+		- Plano de Teste
+
+	Técnicas de design de teste
+
+		- Tabela de Decisão
+		- Partição de Equivalência
+
+	Critérios de conclusão de teste
+
+		- 100% dos caminhos possiveis das telas de login e cadastro foram testados.
+
+	Métricas a serem coletadas
+
+		- 
+
+	Requisitos de dados de teste
+
+		-
+
+	Requisitos do ambiente de teste
+
+		-
+
+	Novos testes e testes de regressão
+
+		- 
+
+	Critérios de suspensão e retomada
+
+		- 
+
+	Desvios da Estratégia de Teste Corporativa
+
+		- 
+
+
+
+
+5) Atividades e estimativas
+
+	Atividades de teste e estimativas 
+
+		- Revisão de documentos 	| Gustavo | 3 dias
+		- Elaboração de casos de teste 	| Gustavo | 3 dias
+		- Automação de testes 		| Gustavo | 3 dias
+
+
+
+
+
+
+6) Equipe
+
+	Funções, atividades e responsabilidades
+
+		Analista de Testes 	| Gustavo | Criar casos de teste
+		Testador 		| Gustavo | Executar casos de teste
+		Automatizador de Testes | Gustavo | Cria scripts de teste Web
+
+	Necessidades de contratação
+
+		- 
+
+
+	Necessidades de treinamento
+
+		- 
+
+
+
+7) Cronograma
+
+	Cronograma
+
+		- 11 de dezembro ~ 14 de dezembro: Revisão de documentos
+		- 11 de dezembro ~ 14 de dezembro: Criar casos de teste
+		- 11 de dezembro ~ 14 de dezembro: Automatizar testes

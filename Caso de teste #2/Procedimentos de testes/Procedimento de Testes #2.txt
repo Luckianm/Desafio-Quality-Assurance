@@ -1,0 +1,98 @@
+Procedimento de Teste
+
+1) Itens de cobertura de teste
+
+	Identificador único
+
+		#2
+
+	Descrição
+
+		- Testes de realização de Login na Lacrei Saude web
+
+
+
+2) Procedimento de Teste
+
+	Objetivo e Prioridade
+
+		- Cobrir todos os demais caminhos de testes possíveis na tela de login
+		- Alta
+
+	Duração
+
+		- 3 dias
+
+	Procedimentos iniciais
+
+		- Conectar a internet
+		- Abrir o browser Edge
+
+	Relacionamento com outros procedimentos
+
+		- Caso de teste #1
+
+	
+
+
+
+Procedimento (Linhas):
+
+	a) Passo
+
+		#1
+
+	b) Caso de Teste
+
+		- #2-#1
+
+	c) Atividade
+
+		- Preencher o formulário de login
+
+	d) Análise do resultado
+
+		- Valide que todos os campos foram preenchidos corretamente.
+
+	e) Saída
+
+		- N/A
+
+	f) Resultado
+
+		- N/A
+
+
+
+
+	a) Passo
+
+		#2
+
+	b) Caso de Teste
+
+		- #2-#1
+
+	c) Atividade
+
+		- Submeter o formulário de login
+
+	d) Análise do resultado
+
+		- Validar que o login é efetuado.
+
+	e) Saída
+
+		- Tela com a mensagem "Boas-vindas à Lacrei Saúde!"
+
+	f) Resultado
+
+		- Tela com a mensagem "Boas-vindas à Lacrei Saúde!"
+
+
+Parada e fechamento
+
+	- Saio do sistema se estiver logado
+	- Fechar o browser
+
+

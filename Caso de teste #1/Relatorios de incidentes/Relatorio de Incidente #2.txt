@@ -1,0 +1,43 @@
+Relatório de Incidente
+
+Identificador único
+
+#2
+
+	Título
+
+		- Confirmaçao de email 
+
+	Informação de tempo
+
+		- 12/12/2023 10:07
+
+	Originador
+
+		- Gustavo
+
+	Contexto
+
+		- Estava usando o Edge
+
+
+	Descrição do incidente
+
+		- Recebi a confirmaçao de email normalmente, mas, ao clicar no link enviado sou direcionado a pagina de login da lacrei saude sem nenhuma mensagem informando que o email foi confirmado ou que tenho que fazer login para continuar o cadastro.
+	
+
+	Avaliação da severidade
+
+		- Baixa
+
+	Avaliação de prioridade
+
+		- Baixa
+
+	Risco
+
+		- N/A
+
+	Status do incidente
+
+		- aberto

@@ -1,0 +1,17 @@
+Log de Execução de Teste
+
+	Identificador único
+
+		#2
+
+	Data
+
+		- 12/12/2023 09:20
+
+	Descrição
+
+		- O caso de testes #1-2 foi executado e concluido com ressalvas.
+
+	Impacto
+
+		- Relatorio de incidente #2

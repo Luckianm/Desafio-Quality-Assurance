@@ -1,0 +1,81 @@
+Relatório de Conclusão de Testes
+
+	Identificador único
+
+		#1
+
+	Resumo dos testes realizados
+
+		- Login
+		- Cadastro de usuario
+
+	Desvios do teste planejado
+
+		- N/A
+
+	Avaliação de conclusão de teste
+
+		- 100% dos incidentes nao foram corrigidos
+
+	Fatores que bloquearam o progresso
+
+		- N/A
+
+	Medidas de teste
+
+		- Casos de teste executados versus planejados
+  		 + Executados: 3
+  		 + Planejados: 3
+  		 + Status atual: 100% já executados
+ 
+		- Incidentes reportados e não corrigidos
+  		 + Incidentes reportados: 3
+  		 + Incidentes corrigidos: 3
+  		 + Status atual: 100% dos incidentes nao foram corrigidos
+
+	Riscos residuais (*) Riscos do projeto
+
+		- N/A
+
+	Resultados de Teste (Artefatos de Teste)
+
+		a) Planos de Teste
+
+			- Plano de Testes #1
+
+		b) Casos de Teste
+
+			- Caso de Teste #1-1 #1-2 #1-3 #2-1
+
+		c) Procedimentos de Teste
+
+			- Procedimento de Teste #1 #2
+
+		d) Logs de Teste
+
+			- Log de Testes #1 #2 #3 #4
+
+		e) Relatórios de Incidente
+
+			- Relatório de Incidente #1 #2 #3 #4
+
+		f) Relatórios de Status de Teste
+
+			- Relatório de Status de Teste #1 #2
+
+
+
+	Ativos de teste reutilizáveis
+
+		a) Casos de Teste
+
+			- N/A
+
+		b) Procedimentos de Teste
+
+			- N/A
+
+	Lições aprendidas
+
+		- N/A
+

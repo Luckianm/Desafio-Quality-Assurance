@@ -1,0 +1,45 @@
+Relatório de Incidente
+
+Identificador único
+
+#1
+
+	Título
+
+		- Cadastro com senha muito longa sendo aceito
+
+	Informação de tempo
+
+		- 01/04/2021 15:32:12
+
+	Originador
+
+		- Gustavo
+
+	Contexto
+
+		- Estava usando o Edge
+
+
+	Descrição do incidente
+
+		- Fiz uma conta com uma senha grande (27816 caracteres) e a senha foi aceita, acredito que caso realmente esteja sendo salvo toda essa quantidade de caracteres no banco de dados a longo prazo pode gerar problemas, e caso nao esteja poderia ser informado no cadastro uma quantidade maxima de caracteres na senha.
+
+		- Evidências: email da conta: gbsouzaofc@gmail.com
+	
+
+	Avaliação da severidade
+
+		- Baixa
+
+	Avaliação de prioridade
+
+		- Baixa
+
+	Risco
+
+		- Acredito que senhas muito longas podem causar problemas para o servidor.
+
+Status do incidente
+
+- aberto

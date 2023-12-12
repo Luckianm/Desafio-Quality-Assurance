@@ -1,0 +1,17 @@
+Log de Execução de Teste
+
+	Identificador único
+
+		#4
+
+	Data
+
+		- 12/12/2023 11:27
+
+	Descrição
+
+		- O caso de testes #2-1 foi executado com sucesso.
+
+	Impacto
+
+		- N/A
